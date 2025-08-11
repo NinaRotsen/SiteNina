@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bce9193.css",
+    "main.js": "/static/js/main.0c0a806c.js",
+    "static/js/38.9a152a1a.chunk.js": "/static/js/38.9a152a1a.chunk.js",
+    "static/media/nina-profissional.jpeg": "/static/media/nina-profissional.d9d7eb0e91587aa01d5c.jpeg",
+    "static/media/nina-8.jpeg": "/static/media/nina-8.92c21690b5c9fdce8d2e.jpeg",
+    "static/media/nina-consulta.jpeg": "/static/media/nina-consulta.259223cb68893faa0bbe.jpeg",
+    "static/media/nina-curriculo.jpeg": "/static/media/nina-curriculo.678b2d6f0277a2689b00.jpeg",
+    "static/media/nina-banner.jpeg": "/static/media/nina-banner.cf5102c56c9b714a1b85.jpeg",
+    "static/media/nr_logo_verde.jpeg": "/static/media/nr_logo_verde.8688236a80fe0ede1f24.jpeg",
+    "index.html": "/index.html",
+    "main.2bce9193.css.map": "/static/css/main.2bce9193.css.map",
+    "main.0c0a806c.js.map": "/static/js/main.0c0a806c.js.map",
+    "38.9a152a1a.chunk.js.map": "/static/js/38.9a152a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bce9193.css",
+    "static/js/main.0c0a806c.js"
+  ]
+}

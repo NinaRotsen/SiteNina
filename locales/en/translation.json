@@ -1,0 +1,79 @@
+{
+  "home": {
+    "sobre": "About",
+    "crm": "CRM/DF 32077 | RQE 23078 - Gynecology and Obstetrics | RQE 25054 - Human Reproduction",
+    "descricao": "Dr. Nina Rotsen is a gynecologist and obstetrician graduated from UFMG, specializing in Assisted Human Reproduction at the Maternal and Child Hospital of Brasília—one of the country's most important public centers for Assisted Human Reproduction.",
+    "descricao2": "She has worked in major maternity hospitals and private clinics, assisting with low and high-risk pregnancies, as well as treating cases of infertility, menopause, and family planning. Today, she is part of the team at one of Brazil's largest Reproductive Medicine groups and sees patients in her own practice with a focus on reproductive planning and infertility.",
+    "descricao3": "Originally from Minas Gerais and an advocate for humanized care, Dr. Nina Rotsen has worked in the public health system (SUS), served as a preceptor for medical residency, and was a member of the Medical Residency Committee at HC-UFMG. With experience in major public and private hospitals in the country, she combines technical rigor with empathy in the care of each woman.",
+    "btnConsulta": "Schedule an appointment"
+  },
+  "header": {
+    "1": "Appointments",
+    "2": "Education & Experience",
+    "3": "Contact",
+    "4": "Fertilaudo"
+  },
+  "footer": {
+    "texto1": "Developed by Henrique Rotsen",
+    "texto2": "All rights reserved"
+  },
+  "atendimentos": {
+    "titulo": "Appointments",
+    "consultas": "My Consultation",
+    "consultas_desc": "I provide consultations in gynecology and assisted reproduction with a strong commitment to the universality of reproductive rights. I offer thorough, empathetic, and personalized care, especially for individuals seeking reproductive planning or facing difficulties in getting pregnant. Consultations last about 1 hour and are conducted in a welcoming, judgment-free environment where the patient can express themselves freely. At the end, each patient receives a PDF with detailed guidance, ensuring clarity and confidence about the next steps of their treatment or planning.",
+    "local": "Location of Service",
+    "local_desc": "I offer telemedicine appointments for patients worldwide, in both Portuguese and English. Online consultations are a practical, accessible, and flexible way to receive specialized care, regardless of where you are. All services strictly follow security and privacy standards, in compliance with LGPD (Brazil's General Data Protection Law), ensuring the same care and quality as an in-person consultation. I also offer in-person appointments in Brasília.",
+    "valor": "Investment",
+    "valor_desc": "Consultation fee: R$ 400.00.",
+    "valor_desc2": "Payment can be made via PIX or credit card.",
+    "valor_desc3": "Includes a follow-up visit within 30 days."
+  },
+  "formacao": {
+    "titulo": "Education and Experience",
+    "academica_titulo": "Education and Qualifications",
+    "academica_curso1": "Medical Residency Program in Assisted Reproduction",
+    "academica_instituicao1": "Dr. Antônio Lisboa Maternal and Child Hospital (HMIB), Brasília/DF",
+    "academica_curso2": "Medical Residency Program in Gynecology and Obstetrics",
+    "academica_instituicao2": "UFMG University Hospital, Belo Horizonte/MG",
+    "academica_curso3": "Medical Degree",
+    "academica_instituicao3": "UFMG School of Medicine, Belo Horizonte/MG",
+    "experiencia_titulo": "Professional Experience",
+    "experiencia_cargo1": "Gynecologist and Obstetrician",
+    "experiencia_local1": "Rede D'or Hospitals, Brasília/DF",
+    "experiencia_desc1": "Works as an on-call physician in the Gynecology and Obstetrics team, handling emergency room consultations, monitoring pregnancies, performing deliveries, and other surgical procedures.",
+    "experiencia_cargo3": "Gynecologist and Assisted Reproduction Specialist",
+    "experiencia_local3": "Clínica Nova Gesta, Brasília/DF",
+    "experiencia_desc3": "Provides outpatient care with a focus on general gynecology, infertility, family planning, and menopause, in addition to performing ultrasounds and procedures such as IUD and Implanon insertions.",
+    "experiencia_cargo4": "Assisted Reproduction Specialist",
+    "experiencia_local4": "Huntington Group",
+    "experiencia_desc4": "Performs ultrasound monitoring for IVF, insemination, and egg freezing treatments. Discusses and defines approaches for Assisted Reproduction Treatments.",
+    "experiencia_cargo5": "Gynecologist and Obstetrician",
+    "experiencia_local5": "Clínica Adimed Medicine and Dentistry, Belo Horizonte / MG",
+    "experiencia_desc5": "Part of the clinical staff, providing outpatient gynecological and obstetric care to women in all stages of life, as well as performing office procedures such as IUD and Implanon insertions, vulvar biopsies, cervical polypectomy, among others.",
+    "experiencia_cargo6": "Obstetrician",
+    "experiencia_local6": "Risoleta Tolentino Neves Hospital, Belo Horizonte / MG",
+    "experiencia_desc6": "Obstetrician in the hospital's maternity ward, working as an on-call and rounding physician in the management of low and high-risk cases, and serving as a medical preceptor for first-year residents of the HC-UFMG Gynecology and Obstetrics Residency Program.",
+    "experiencia_cargo7": "Gynecologist and Obstetrician",
+    "experiencia_local7": "Vila da Serra Hospital, Belo Horizonte / MG",
+    "experiencia_desc7": "On-call physician for the hospital's Gynecology and Obstetrics team, managing low and high-risk cases and serving as a medical preceptor for residents of the Vila da Serra Hospital's Gynecology and Obstetrics Residency Program.",
+    "qualificacoes_titulo": "Additional Courses and Qualifications",
+    "qualificacao1": "Theoretical and Practical Course on Embryo Transfer",
+    "qualificacao2": "Resident Representative on the HC-UFMG Medical Residency Committee",
+    "qualificacao3": "ACLS - Advanced Cardiovascular Life Support by the American Heart Association",
+    "qualificacao4": "Scientific Initiation Scholarship from the Young Talents for Science Project - CAPES",
+    "qualificacao5": "Cambridge ESOL Level 2 Certificate in ESOL International Certificate (Advanced), CAE Grade C",
+    "publicacoes_titulo": "Publications",
+    "publicacao_1": "Pontelo BM, Greco DB, Guimarães NS, Rotsen N, Braga VAR, Pimentel PHN, Barbosa H, Barroso TM, Tupinambás U. Profile of drug–drug interactions and impact on the effectiveness of antiretroviral therapy among patients living with HIV followed at an Infectious Diseases Referral Center in Belo Horizonte, Brazil. The Brazilian Journal of Infectious Diseases. 2020;24(2):104-109. doi: 10.1016/j.bjid.2020.03.006.",
+    "publicacao_2": "Paula JS, Ribeiro LS, Ferreira NRS, Carmo AA. Chapter 7 - Arrhythmias in the emergency setting. In: Martins P, Carvalho NA, editors. Trauma and clinical emergencies: concepts and management. 1st ed. Belo Horizonte: Folium; 2019. p. 845. ISBN: 9788584500369.",
+    "publicacao_3": "Leal CRV, Ferreira NRS, Junior MDC. Chapter 12 - Pre-eclampsia: incidence, definition, and diagnostic aspects. In: Korkes HA, Sass N, Almeida FA, Oliveira G, editors. Hypertensive Disorders in Pregnancy and their long-term complications. São Paulo: EDUC; 2023. ISBN: 9788528306941.",
+    "publicacao_4": "Caser CMC, de Macedo AFMC, Tierno NIZ, Barcelos MFR, Ferreira NRS, Plácido KM, Rolindo TF, Lima LGN, Ribeiro LM. Conservative treatment of ovarian explosion after oocyte retrieval for in vitro fertilization: case report. JBRA Assist Reprod. 2024;28(4):in press. doi: 10.5935/1518-0557.20240063.",
+    "publicacao_5": "Poster presentation: “Assessment of bone mass changes in people living with HIV/AIDS (PLWHA), treatment-naïve, at a reference center for infectious diseases HC-UFMG – SMSA BH – QUARUP project, 2014-2015” at the XIX Brazilian Congress of Infectious Diseases. August 26-29, 2015. Gramado/RS.",
+    "publicacao_6": "Poster presentation: “Case report: peripartum cardiomyopathy associated with pre-eclampsia in a twin pregnancy” at the XIV Minas Gerais Congress of Gynecology and Obstetrics. May 11-14, 2022. Belo Horizonte / MG.",
+    "publicacao_7": "Poster presentation: “Epidemiological profile of patients undergoing cesarean section after initiation of cervical ripening and main indications for the procedure in a high-risk university hospital” at the 27th São Paulo Congress of Obstetrics and Gynecology 2022 - August 11-13, 2022.",
+    "publicacao_8": "Poster presentation: “Incidence of macrosomic newborns and associated maternal and neonatal complications in a university hospital, from 2014 to 2019” at the 27th São Paulo Congress of Obstetrics and Gynecology 2022 - August 11-13, 2022."
+  },
+  "contato": {
+    "titulo": "Contact and Appointments",
+    "subtitulo": "Choose the best way to get in touch or schedule your appointment."
+  }
+}
