@@ -1,0 +1,79 @@
+{
+  "home": {
+    "sobre": "Sobre",
+    "crm": "CRM/DF 32077 | RQE 23078 - Ginecologia e Obstetrícia | RQE 25054 - Reprodução Humana",
+    "descricao": "Dra. Nina Rotsen é médica ginecologista e obstetra formada pela UFMG, especialista em Reprodução Humana Assistida pelo Hospital Materno Infantil de Brasília — um dos centros públicos de Reprodução Humana Assistida mais importantes do país.",
+    "descricao2": "Atuou em grandes maternidades e clínicas privadas, acompanhando gestantes de baixo e alto risco, além de tratar casos de infertilidade, climatério e planejamento familiar. Hoje integra a equipe de um dos maiores grupos de Medicina Reprodutiva do Brasil e atende em consultório próprio com foco em planejamento reprodutivo e infertilidade.",
+    "descricao3": "Mineira e defensora do atendimento humanizado, a Dra. Nina Rotsen atuou no SUS, foi preceptora de residência médica e integrou a Comissão de Residência Médica do HC-UFMG. Com vivência em grandes hospitais públicos e privados do país, alia rigor técnico à empatia no cuidado com cada mulher.",
+    "btnConsulta": "Agende uma consulta"
+  },
+  "header": {
+    "1": "Atendimentos",
+    "2": "Formação & Experiência",
+    "3": "Contato",
+    "4": "Fertilaudo"
+  },
+  "footer": {
+    "texto1": "Desenvolvido por Henrique Rotsen",
+    "texto2": "Todos os direitos reservados"
+  },
+  "atendimentos": {
+    "titulo": "Atendimentos",
+    "consultas": "Minha Consulta",
+    "consultas_desc": "Realizo consultas em ginecologia e reprodução assistida, com um forte compromisso com a universalidade do direito reprodutivo. Ofereço um atendimento minucioso, empático e personalizado, especialmente para pessoas que buscam planejamento reprodutivo ou enfrentam dificuldades para engravidar. As consultas duram cerca de 1 hora e são conduzidas em um ambiente acolhedor e sem julgamentos, onde a paciente pode se expressar livremente. Ao final, cada paciente recebe um PDF com orientações detalhadas, garantindo clareza e segurança sobre os próximos passos do tratamento ou planejamento.",
+    "local": "Local de atendimento",
+    "local_desc": "Realizo atendimentos por telemedicina para pacientes do mundo todo, em português e em inglês. As consultas on-line são uma forma prática, acessível e flexível de receber acompanhamento especializado, independentemente de onde você esteja. Todos os atendimentos seguem rigorosamente as normas de segurança e privacidade, em conformidade com a LGPD, garantindo o mesmo cuidado e qualidade de uma consulta presencial. Além disso, também ofereço atendimentos presenciais em Brasília.",
+    "valor": "Investimento",
+    "valor_desc": "Valor da consulta: R$ 400,00.",
+    "valor_desc2": "O pagamento pode ser feito via PIX ou cartão de crédito.",
+    "valor_desc3": "Inclui retorno em até 30 dias."
+  },
+  "formacao": {
+    "titulo": "Formação e Experiência",
+    "academica_titulo": "Formação e Qualificações ",
+    "academica_curso1": "Programa de Residência Médica em Reprodução Assistida ",
+    "academica_instituicao1": "Hospital Materno Infantil Dr. Antônio Lisboa (HMIB), Brasília/DF",
+    "academica_curso2": "Programa de Residência Médica em Ginecologia e Obstetrícia",
+    "academica_instituicao2": "Hospital das Clínicas da UFMG, Belo Horizonte/MGF",
+    "academica_curso3": "Graduação em Medicina ",
+    "academica_instituicao3": "Universidade de Medicina da UFMG, Belo Horizonte/MG",
+    "experiencia_titulo": "Experiência Profissional",
+    "experiencia_cargo1": "Médica Ginecologista e Obstetra",
+    "experiencia_local1": "Hospitais Rede D'or, Brasília/DF",
+    "experiencia_desc1": "Atua como plantonista da equipe de Ginecologia e Obstetrícia, atendendo consultas de pronto-atendimento, acompanhando gestantes, realizando partos e outros procedimentos cirúrgicos.",
+    "experiencia_cargo3": "Médica Ginecologista e Especialista em Reprodução Assistida",
+    "experiencia_local3": "Clínica Nova Gesta, Brasília/DF",
+    "experiencia_desc3": "Atua no atendimento ambulatorial com foco em ginecologia geral, infertilidade, planejamento familiar e climatério, além de realizar ultrassonografia e procedimentos como inserção de DIUs e Implanon.",
+    "experiencia_cargo4": "Médica Especialista em Reprodução Assistida",
+    "experiencia_local4": "Grupo Huntington",
+    "experiencia_desc4": "Acompanhamento ultrassonográfico em tratamentos de FIV, inseminação e congelamento de óvulos. Discussão e definição de condutas em Tratamentos de Reprodução Assistida.",
+    "experiencia_cargo5": "Médica Ginecologista e Obstetra",
+    "experiencia_local5": "Clínica Adimed Medicina e Odontologia, Belo Horizonte / MG",
+    "experiencia_desc5": "Parte do corpo clínico, atuando no atendimento ambulatorial ginecológico e obstétrico de mulheres em todas as suas fases de vida, além de realizar procedimentos ambulatoriais como inserção de DIUs, inserção de Implanon, biópsias vulvares, polipectomia cervical, entre outros.",
+    "experiencia_cargo6": "Médica obstetra",
+    "experiencia_local6": "Hospital Risoleta Tolentino Neves, Belo Horizonte / MG",
+    "experiencia_desc6": "Obstetra na maternidade do hospital, atuando como plantonista e horizontal na condução de casos de baixo e alto risco e sendo preceptora médica dos residentes do primeiro ano do Programa de Residência Médica em Obstetrícia e Ginecologia do HC-UFMG.",
+    "experiencia_cargo7": "Médica Ginecologista e Obstetra",
+    "experiencia_local7": "Hospital Vila da Serra, Belo Horizonte / MG",
+    "experiencia_desc7": "Plantonista da equipe de Ginecologia e Obstetrícia do Hospital, atuando na condução de casos de baixo e alto risco e sendo preceptora médica dos residentes do Programa de Residência Médica em Obstetrícia e Ginecologia do Hospital Vila da Serra.",
+    "qualificacoes_titulo": "Cursos e Qualificações Adicionais",
+    "qualificacao1": "Curso Teórico Prático de Transferência Embrionária",
+    "qualificacao2": "Representante dos Residentes na Comissão de Residência Médica do HC-UFMG",
+    "qualificacao3": "ACLS - Suporte Avançado de Vida em Cardiologia pela American Heart Association",
+    "qualificacao4": "Bolsa de Iniciação Científica pelo Projeto Jovens Talentos para Ciência - CAPES ",
+    "qualificacao5": "Cambridge ESOL Level 2 Certificate in ESOL International Certificate (Advanced), CAE Grade C",
+    "publicacoes_titulo": "Publicações",
+    "publicacao_1": "Pontelo BM, Greco DB, Guimarães NS, Rotsen N, Braga VAR, Pimentel PHN, Barbosa H, Barroso TM, Tupinambás U. Profile of drug–drug interactions and impact on the effectiveness of antiretroviral therapy among patients living with HIV followed at an Infectious Diseases Referral Center in Belo Horizonte, Brazil. The Brazilian Journal of Infectious Diseases. 2020;24(2):104-109. doi: 10.1016/j.bjid.2020.03.006.",
+    "publicacao_2": "Paula JS, Ribeiro LS, Ferreira NRS, Carmo AA. Capítulo 7 - Arritmias na urgência. In: Martins P, Carvalho NA, editors. Trauma e emergências clínicas: conceitos e condutas. 1st ed. Belo Horizonte: Folium; 2019. p. 845. ISBN: 9788584500369.",
+    "publicacao_3": "Leal CRV, Ferreira NRS, Junior MDC. Capítulo 12 - Pré-eclampsia: incidência, definição e aspectos diagnósticos. In: Korkes HA, Sass N, Almeida FA, Oliveira G, editors. Síndromes Hipertensivas na Gestação e suas complicações a longo prazo. São Paulo: EDUC; 2023. ISBN: 9788528306941.",
+    "publicacao_4": "Caser CMC, de Macedo AFMC, Tierno NIZ, Barcelos MFR, Ferreira NRS, Plácido KM, Rolindo TF, Lima LGN, Ribeiro LM. Conservative treatment of ovarian explosion after oocyte retrieval for in vitro fertilization: case report. JBRA Assist Reprod. 2024;28(4):in press. doi: 10.5935/1518-0557.20240063.",
+    "publicacao_5": "Apresentação do pôster “Avaliação das alterações da massa óssea em pessoas vivendo com HIV/AIDS (PVHA), virgens de TARV, em centro de referência em doenças infecciosas HC-UFMG – SMSA BH – projeto QUARUP, 2014-2015” no XIX Congresso Brasileiro de Infectologia. 26 a 29 de agosto de 2015. Gramado/RS.",
+    "publicacao_6": "Apresentação do pôster “Relato de caso: miocardiopatia periparto associada a pré-eclâmpsia em gestação gemelar” no XIV Congresso Mineiro de Ginecologia e Obstetrícia. 11 a 14/05/22. Belo Horizonte / MG.",
+    "publicacao_7": "Apresentação do pôster “Perfil epidemiológico de pacientes submetidas a cesariana após início de amadurecimento cervical e principais indicações ao procedimento em um hospital universitário de alto risco” no 27º Congresso Paulista de Obstetrícia e Ginecologia 2022 - 11 a 13/08/22.",
+    "publicacao_8": "Apresentação do pôster “Incidência de recém-nascidos macrossômicos e as complicações maternas e neonatais associadas em um hospital universitário, no período de 2014 a 2019” no 27º Congresso Paulista de Obstetrícia e Ginecologia 2022 - 11 a 13/08/22."
+  },
+  "contato": {
+    "titulo": "Contato e Agendamentos",
+    "subtitulo": "Escolha a melhor forma de entrar em contato ou agendar sua consulta."
+  }
+}

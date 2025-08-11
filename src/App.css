@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .home,
+  .trabalhos,
+  .curriculo,
+  .contato {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .trabalhos {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+  
+  .curriculo {
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+  
+  .contato {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+  }

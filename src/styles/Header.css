@@ -1,0 +1,249 @@
+.navbar {
+    background: #95aa99;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    /* MODIFICADO: para alinhar melhor os itens */
+    align-items: center;
+    height: 80px;
+    width: 100%;
+    /* MODIFICADO: para ocupar toda a largura */
+    max-width: 1500px;
+    padding: 0 20px;
+    /* Adicionado para espaçamento nas laterais */
+}
+
+.navbar-logo {
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    width: 5%;
+    margin-left: 0;
+    /* Removido margin-left para usar o space-between */
+}
+
+.navbar-logo:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease-out;
+}
+
+.nav-menu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    /* Removido width e justify-content para permitir que o flexbox gerencie */
+    margin: 0;
+    margin-left: auto;
+    /* NOVO: Empurra o menu para a esquerda do que estiver à direita */
+}
+
+.btn-header {
+    margin-left: 20px;
+    /* Espaçamento entre o seletor de idioma e o botão */
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    height: 80px;
+}
+
+.nav-links {
+    color: #ededed;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    height: 100%;
+}
+
+.nav-links:hover {
+    border-bottom: 4px solid white;
+    transition: all 0.2s ease-out;
+}
+
+.fa-bars {
+    color: #ededed;
+}
+
+.nav-links-mobile {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+}
+
+/* Estilo geral para os seletores */
+.language-selector select,
+.language-selector-mobile select {
+    appearance: none;
+    padding: 5px 30px 5px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    color: #ededed;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg fill='%23ededed' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5H7z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 16px;
+}
+
+/* Mobile version oculta desktop selector */
+.desktop-only {
+    display: block;
+}
+
+.language-selector-mobile {
+    display: none;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    .NavbarItems {
+        position: relative;
+    }
+
+    .nav-menu {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 90vh;
+        position: absolute;
+        top: 90px;
+        left: -100%;
+        opacity: 1;
+        transition: all 0.5s ease;
+    }
+
+    .nav-menu.active {
+        background: white;
+        left: 0;
+        opacity: 1;
+        transition: all 0.5s ease;
+        z-index: 1;
+    }
+
+    .nav-links {
+        text-align: center;
+        color: #95aa99;
+        padding: 2rem;
+        width: 100%;
+        display: table;
+    }
+
+    .nav-links:hover {
+        background-color: #95aa99;
+        color: white;
+        border-radius: 0;
+    }
+
+    .btn-header {
+        /* 1. Tira o botão do fluxo normal de elementos */
+        position: absolute;
+
+        /* 2. Move o ponto inicial do botão para o meio horizontal do container */
+        left: 50%;
+
+        /* 3. Centraliza o botão verticalmente */
+        top: 50%;
+
+        /* 4. Puxa o botão para trás pela metade de seu próprio tamanho, 
+     tanto na horizontal (-50%) quanto na vertical (-50%), 
+     resultando em uma centralização perfeita. */
+        transform: translate(-50%, -50%);
+
+        /* Opcional: mantém o botão um pouco menor em telas pequenas */
+        transform: translate(-50%, -50%) scale(0.7);
+
+        /* 5. Remove quaisquer margens que possam interferir */
+        margin: 0;
+    }
+
+    .navbar-logo {
+        position: absolute;
+        width: 10vh;
+        left: 20px;
+        /* Ajusta a posição com o novo padding */
+    }
+
+    .menu-icon {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 20px;
+        /* Ajusta a posição com o novo padding */
+        transform: translate(0, 60%);
+        /* Ajustado para não mover na horizontal */
+        font-size: 1.8rem;
+        cursor: pointer;
+        z-index: 10;
+        /* Garante que fique sobre o botão, se houver sobreposição */
+    }
+
+    .fa-times {
+        color: white;
+        font-size: 2rem;
+    }
+
+    .nav-links-mobile {
+        display: block;
+        text-align: center;
+        margin: 2rem auto;
+        border-radius: 4px;
+        width: 80%;
+        text-decoration: none;
+        font-size: 1.5rem;
+        background-color: transparent;
+        color: #ededed;
+        padding: 14px 20px;
+        border: 1px solid #ededed;
+        transition: all 0.3s ease-out;
+    }
+
+    .nav-links-mobile:hover {
+        background: #ededed;
+        color: #00254a;
+        transition: 250ms;
+    }
+
+    .desktop-only {
+        display: none;
+    }
+
+    .language-selector-mobile {
+        display: block;
+    }
+
+    .language-selector-mobile select {
+        font-size: 1.3rem;
+        padding: 10px 30px 10px 10px;
+        margin: 0 auto;
+        border: 1px solid #ededed;
+    }
+
+    /* Ocultamos o seletor de idioma de desktop, mas mantemos o botão */
+    .desktop-only {
+        display: none;
+    }
+}

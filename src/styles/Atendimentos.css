@@ -1,0 +1,100 @@
+.atendimentos-bg {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    background-image: url(../components/images/nina-consulta.jpeg);
+    /* Adicionando as propriedades para controle */
+    background-size: cover;          /* Cobre todo o contêiner sem distorcer */
+    background-repeat: no-repeat;    /* Evita que a imagem se repita */
+    background-position: center;     /* Centraliza a imagem */
+}
+
+.work {
+    display: flex;
+    flex-direction: row;    
+}
+
+.info-container-1 {
+    padding: 50px;
+    align-content: center;
+    align-self: flex-start;
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
+
+.info-container-2 {
+    padding: 50px;
+    align-content: center;
+    margin-left: auto;
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
+
+.main-title {
+    color: #95aa99;
+    margin: 0;
+}
+
+.work-title {
+    margin: 10px;
+}
+
+.divider {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #95aa99;
+    border-width: 2px;
+    opacity: 60%;
+}
+
+.vertical{
+    list-style: none;
+    column-count: 1;
+    padding: 10px;    
+}
+
+.vertical li{
+    margin-top: 10px;  
+}
+
+
+.work p{
+    margin-left: 10px;
+}
+
+a{
+    color: #95aa99;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 960px) {
+    .works atendimentos-bg {
+        padding: 25px;
+        background-color: white;
+        background-image: none;
+    }
+
+    .work {
+        flex-direction: column;
+    }
+
+    .info-container-1 {
+        padding: 25px;
+        align-content: center;
+        margin-left: auto;
+        width: 100%;
+        height: 50%;
+        background-color: white;
+    }
+    
+    .info-container-2 {
+        padding: 25px;
+        align-content: center;
+        margin-left: auto;
+        width: 100%;
+        height: 50%;
+        background-color: white;
+    }
+}
